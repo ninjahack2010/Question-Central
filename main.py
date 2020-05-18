@@ -1,0 +1,8 @@
+print('Welcome to Question Central! We are going to start now, OK?')
+name = input('What is your name?\n')
+print('What a great name, %s.' % name)
+answer = input('Why are you named that?\n')
+print('OK, %s.' % name)
+question = input ('How old are you?\n')
+print('OK, %s.' % name)
+print('THE GAME IS OVER! NEW QUESTIONS AND FEATURES WILL BE ADDED!')
